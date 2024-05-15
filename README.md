@@ -1,1 +1,1 @@
-This is a session for git and github remote repository
+Hello! My name is Jazelle Micah Dael and this is my repository. Goddluck!
